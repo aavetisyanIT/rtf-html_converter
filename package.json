@@ -1,14 +1,14 @@
 {
-  "name": "rtf-html_converter",
-  "version": "1.0.0",
-  "description": "",
-  "main": "App.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Artur Avetisyan",
-  "license": "ISC",
-  "dependencies": {
-    "cloudmersive-convert-api-client": "^2.6.3"
-  }
+	"name": "rtf-html_converter",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Artur Avetisyan",
+	"license": "ISC",
+	"dependencies": {
+		"node-unrtf": "^1.1.1"
+	}
 }
